@@ -1,13 +1,10 @@
-# INTRODUCTION-SELF
-P.GIRISH
+#SELF INTRODUCTION 
+HI IM GIRISH P
 
-
-🔭 I’m currently a College Student (BTech CSE)
-🌱 I’m currently learning C++,C# and Advanced Python
-💬 Ask me about Tkinter or any other Tech related stuff.
-📫 How to reach me: Telegram - @gouravshrma
-😄 Pronouns: He/His
-⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+🔭 I’m currently a College Student (BTech ROBOTICS AND AUTOMATION )
+🌱 I’m currently learning C++, Python , Advanced Robotics, Fusion 360 and ROS with  Advanced Python
+💬 Ask me about Robotics and automation , Chatbots, Ibm watson or any other Tech Blogging research  related stuff.
+📫 How to reach me: Telegram - @girishvigrish, Instagram - @Sandesh_girish, Linkedin - @Girish P Researchgate -@GIRISHVIGRISH
 
 
 
